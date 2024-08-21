@@ -1,4 +1,6 @@
 # sistema-de-stock-y-ventas
+21/08/24
+
 yanina, joaquin gonzalez, Joaquin Rearte 
 
 Proyecto usando Historias de Usuarios
