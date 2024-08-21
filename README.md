@@ -1,5 +1,5 @@
 # sistema-de-stock-y-ventas
-yanina, joaquin
+yanina, joaquin, Joaquin Rearte
 
 Proyecto usando Historias de Usuarios
 
